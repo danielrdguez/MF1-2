@@ -7,7 +7,7 @@ framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [bootstrap, quiz]            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
+mode        : standalone # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
@@ -145,7 +145,7 @@ En la actualidad, anticiparse a los demás competidores y prever los hábitos de
 - Del carácter interno
   - Personales
   - Grupos Sociales
-  
+
 ---
 
 ## Necesidades y tendencias.
@@ -490,6 +490,7 @@ A continuación, se exponen las principales estrategias de segmentación:
 **Estrategia de nicho de mercado:** son las que usan aquellas empresas que se especializan en atender a los pequeños subgrupos homogéneos que las grandes empresas no atienden por ser poco rentables o desconocen de su existencia. Estas empresas ofrecen servicios y productos muy específicos y aunque el volumen de negocio al que optan es pequeño también suelen serlo las dimensiones de las mismas.
 
 ---
+
 ## Diferenciación (provis.)
 
 <span class="diferenciacion"><img src="http://www.retail.awanzo.com/wp-content/uploads/2009/07/standout.jpg"></span>
@@ -502,6 +503,98 @@ A continuación, se exponen las principales estrategias de segmentación:
     top: 200px;
 }
 </style>
+
+---
+
+## La descentralización productiva como estrategia de racionalización
+
+
+<span class="descentralizacion"><img src="http://hungarianspectrum.files.wordpress.com/2012/01/6a00e009865ae58833016300674ef2970d.jpg"></span>
+
+<style>
+.descentralizacion img {
+    max-height: 450px;
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+</style>
+
+---
+
+## La descentralización productiva como estrategia de racionalización
+
+### La descentralización productiva como estrategia. La combinación de la especialización industrial y la subcontratación
+
+Actualmente es posible ser competitivos independientemente del tamaño del negocio, sin embargo, la microempresa debe determinar el balance adecuado entre aspectos cuantitativos (dimensión del negocio o niveles de producción) y cualitativos (tecnología o especialización de sus procesos) para conseguir un estado óptimo y poder competir convenientemente.
+
+Para centrarse en el aspecto cuantitativo, es necesario proveerse de la información adecuada y redefinir los planes estratégicos. Para mejorar el aspecto cualitativo, existen, en general, dos vías principales para la microempresa: la especialización industrial y la subcontratación.
+
+---
+
+## La descentralización productiva como estrategia de racionalización
+
+### Subcontratación
+
+Se produce cuando una empresa ve conveniente contratar los servicios de otra empresa para que realice determinadas funciones, que bien por su especificidad, complejidad o coste, es preferible que sean asumidas por un ente externo.
+
+Es decir, se puede adquirir la especialización contratando los servicios de otras empresas para que asuman determinadas funciones o bien las empresas pueden especializarse en funciones clave y así conseguir economías de escala u orientar la capacidad disponible hacia un segmento de clientes determinado.
+
+---
+
+## La descentralización productiva como estrategia de racionalización
+
+
+<span class="nike"><img src="http://cdnl.complex.com/mp/620/400/80/0/bb/1/ffffff/8f397508d4e5dce8e4305054b9bf2dd7/images_/assets/CHANNEL_IMAGES/SNEAKERS/2014/01/nike2.jpg"></span>
+
+<style>
+.nike img {
+    max-height: 450px;
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+</style>
+
+---
+
+## La descentralización productiva como estrategia de racionalización
+
+## La descentralización productiva en la microempresa
+
+Dependiendo de sus características (sector, actividad y tamaño, etc.), para lograr una adecuada sintonía entre la dimensión del negocio y su nivel de especialización técnica, las microempresas necesitan racionalizar o simplificar sus estructuras productivas a través de:
+
+- Subcontratación de montaje de productos o disposición de servicios.
+- Fabricación externa de componentes dependiendo del coste de producción y calidad que aporten las empresas contratadas.
+- Gestión de compras y comercialización de productos.
+- Acceso al uso y aprovechamiento de tecnología cuya adquisición en propiedad es costosa.
+- Especialización técnica, invertir más recursos en I+D+i para conseguir diferenciarse y ser más eficientes en el aspecto productivo.
+
+---
+
+## La descentralización productiva como estrategia de racionalización
+
+### ¿Qué se consigue con la racionalización?
+
+Reducción de costes, flexibilidad, especialización, valor añadido pero sobre todo:
+- **Eficiencia-renovación de procesos.** La tecnología permite que se reestructure la capacidad del negocio de forma eficaz y eficiente. Pero, no solo se descentralizan factores tecnológicos, la estrategia de simplificación puede y debe ser susceptible de adoptarse en cualquier área de la empresa siempre y cuando aporte un valor añadido al negocio.
+- **Competitividad-búsqueda de sinergias.** Al existir una fuerte relación de interdependencia entre ellas, se impulsa positivamente la innovación, calidad, eficacia y la gestión de todas las empresas del sector. Se consigue así, un conjunto de empresas involucradas en un mismo sector, buscando conjuntamente su propia economía de escala óptima.
+
+---
+
+## La externalización de servicios: “outsourcing”
+
+### Definición:
+El outsourcing, también denominado subcontratación o externalización consiste en la contratación por parte de una empresa de uno o varios proveedores externos de servicios para la ejecución de funciones de diversa índole.
+
+### Objetivos:
+
+- **Concentrar los esfuerzos** en las áreas principales del negocio, las que realmente aportan un valor añadido a la actividad y son núcleo central.
+- **Necesidad de adaptación rápida.** En ocasiones, las empresas necesitan recursos específicos en un momento puntual. El outsourcing es ideal para utilizar estos recursos sin tener que adquirirlos en propiedad.
+- **Reducir gastos fijos.** Los gastos fijos están relacionados a los costes estructurales de las empresas, por lo que influyen en el negocio en un horizonte temporal amplio. La externalización, confiere flexibilidad de acción, pues la empresa no compromete grandes inversiones y puede agrandar o encoger su capacidad productiva según le convenga.
+- **Necesidades tecnológicas.** La complejidad del mercado demanda cada vez procesos productivos más eficaces y la tecnología y la innovación son los pilares en los que se fundamentan.
+- **Asesoramiento.** De todas las áreas que pueden existir en una empresa: seguridad, consultoría y sobre todo tecnológico.
+
 
 --- .segue .dark
 
