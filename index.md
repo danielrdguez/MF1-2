@@ -17,7 +17,28 @@ knit        : slidify::knit2slides
 
 <style>
 .dark h2{
-line-height: 65px;
+  line-height: 65px;
+}
+.nota, .aviso {
+  color: black;
+  line-height: 32px;
+  padding: 28px;
+  margin-top: 28px;
+  margin-bottom: 28px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px #888888;
+}
+.nota {
+  background-color: LightSteelBlue;
+}
+.aviso {
+  background-color: Pink;
+}
+.col3 {
+  margin-left: 25px;
+  width: 30%;
+  float: left;
+  text-align: left;
 }
 </style>
 
@@ -560,7 +581,7 @@ Es decir, se puede adquirir la especialización contratando los servicios de otr
 
 ## La descentralización productiva como estrategia de racionalización
 
-## La descentralización productiva en la microempresa
+### La descentralización productiva en la microempresa
 
 Dependiendo de sus características (sector, actividad y tamaño, etc.), para lograr una adecuada sintonía entre la dimensión del negocio y su nivel de especialización técnica, las microempresas necesitan racionalizar o simplificar sus estructuras productivas a través de:
 
@@ -584,8 +605,9 @@ Reducción de costes, flexibilidad, especialización, valor añadido pero sobre 
 
 ## La externalización de servicios: “outsourcing”
 
-### Definición:
-El outsourcing, también denominado subcontratación o externalización consiste en la contratación por parte de una empresa de uno o varios proveedores externos de servicios para la ejecución de funciones de diversa índole.
+<div class="nota">
+<strong>El outsourcing</strong>, también denominado subcontratación o externalización consiste en la contratación por parte de una empresa de uno o varios proveedores externos de servicios para la ejecución de funciones de diversa índole.
+</div>
 
 ### Objetivos:
 
@@ -594,6 +616,223 @@ El outsourcing, también denominado subcontratación o externalización consiste
 - **Reducir gastos fijos.** Los gastos fijos están relacionados a los costes estructurales de las empresas, por lo que influyen en el negocio en un horizonte temporal amplio. La externalización, confiere flexibilidad de acción, pues la empresa no compromete grandes inversiones y puede agrandar o encoger su capacidad productiva según le convenga.
 - **Necesidades tecnológicas.** La complejidad del mercado demanda cada vez procesos productivos más eficaces y la tecnología y la innovación son los pilares en los que se fundamentan.
 - **Asesoramiento.** De todas las áreas que pueden existir en una empresa: seguridad, consultoría y sobre todo tecnológico.
+
+---
+
+## La externalización de servicios: “outsourcing”
+
+### Características:
+
+**Duración** Normalmente son colaboraciones permanentes pero también pueden ser temporales o incluso puntuales.
+
+**Especialización.** En la actualidad, todas las áreas de un negocio son susceptibles de ser externalizadas (excepto los órganos decisorios) pero, en general, se subcontratan áreas que necesitan unas competencias específicas y un alto grado de especialización.
+
+**Cesión de autonomía operativa y de decisión.** La empresa subcontratante concede cierto grado de autonomía para que la empresa externa desarrolle su actividad sin interferencias intercambiando información y colaborando cuando sea necesario.
+
+**Riesgo** La subcontratación debe estar subordinada a la optimización del desempeño de la empresa. Esto puede significar delegar funciones importantes que impliquen riesgos. Cada vez se externalizan más funciones consideradas hace años “intocables” como: recursos humanos, contabilidad o marketing.
+
+---
+
+## La externalización de servicios: “outsourcing”
+
+<div class="nota">
+Cualquier utilidad o provecho que una unidad de producción pone a disposición de una unidad de consumo sin transferir propiedad alguna y sin que intervenga en el proceso de intercambio bienes físicos, o bien, en caso de incluir elementos tangibles, que no sean estos el objeto principal del intercambio.
+</div>
+
+### Características de los servicios
+
+**No son físicos.** Aunque pueden integrase ciertos elementos tangibles que forman parte del servicio. Un concierto, una obra de teatro, las telecomunicaciones, acudir a una peluquería, asesorías, consultoras, psicólogos, etc., son ejemplos de ellos.
+
+**Calidad del servicio.** El grado o valía de la transferencia o prestación del servicio puede ser más o menos satisfactorio. Factores que influirán en la calidad son aspectos como: experiencia, tipo de mercado-meta, recursos invertidos, herramientas de trabajo, trato al cliente, etc. No vale lo mismo una entrada para asistir a un partido de tenis en primera ronda que una entrada para la final del mismo torneo.
+
+---
+## La externalización de servicios: “outsourcing”
+### Destinatarios de los servicios
+
+<div class="nota"> <strong>Mercado-meta o Mercado objetivo</strong>
+El conjunto de clientes o unidades de consumo que ofrecen un mayor número de oportunidades de negocio, por lo que orientará su oferta productiva a atender ese mercado específico.
+</div>
+
+---
+
+## Clientes potenciales
+
+
+- **Los clientes actuales:** grupo de individuos que tienen una vinculación comercial estable o periódica en un mercado.
+- **Los clientes potenciales:** grupo de individuos que no tienen una vinculación comercial directa, estable o ni siquiera periódica pero que 
+  - Tienen necesidades insatisfechas o parcialmente insatisfechas.
+  - Por su comportamiento, tendencias o grupo social son susceptibles a responder bien a la creación de nuevas necesidades y adoptarlas como deseos.
+
+---
+
+## Clientes potenciales
+### Clasificación
+
+- **Por expectativa de compra:** puede ser alta, media o baja.
+- **Por frecuencia de compra:** habituales y ocasionales.
+- **Por influencia:** alto, medio y bajo grado de influencia.
+
+---
+
+## Canales de distribución
+
+<div class="nota"><strong>Canal de distribución:</strong>
+El medio por el que los fabricantes ponen disposición de los clientes los productos o los servicios.
+</div>
+
+### Tipos de intermediarios:
+
+- Mayoristas
+- Minoristas
+
+---
+
+## Canales de distribución
+
+### Funciones de los mayoristas:
+
+- Gestionan ingentes cantidades de productos, los almacena, los conserva y asume los riesgos inherentes a estos procesos.
+- Ingenia, agrupa y sintetiza la mercancía estableciendo clasificaciones, lotes y sistematiza los pedidos.
+- Transporta y entrega las mercancías hasta su destino.
+- Publicita, promociona y vende los productos.
+- Sirven de fuentes de financiación a los minoristas, pues entregan mercancías permitiendo diferir el pago de las mismas.
+- Informa al fabricante sobre el mercado.
+
+---
+
+## Canales de distribución
+### Minoristas:
+Entran en esta categoría hipermercados, supermercados, autoservicios, máquinas expendedoras, grandes almacenes, etc.
+
+- **Según su forma de venta:** tradicional, libre servicio, comercio mixto (venta automática: vending, máquinas expendedoras), venta ambulante (rastros, mercadillos), tele-marketing (por Internet, catalogo, televisión, teléfono).
+
+- **Según su nivel de agregación o integración:** comercio independiente, comercio asociado (franquicias), comercio integrado, cooperativas de consumo: se trata de los antiguos economatos.
+
+---
+
+## Canales de distribución
+### Minoristas:
+
+<div class="nota"><strong>Franquicia:</strong>Contrato por el cual una empresa matriz (franquiciador) cede u otorga ciertos derechos (marca, suministros) a otro negocio (franquiciado) que disfrutará de las ventajas de mercado y otras de las que goza la firma con la que se asocia, por una contraprestación establecida en las cláusulas del contrato</div>
+
+<div class="nota"><strong>Economato</strong>
+Se trata de un almacén surtido de artículos básicos (de primera necesidad) que las empresas reunían y ponían a disposición de sus empleados, otorgándoles cupones para comprar allí o descuentos para que se abasteciesen de un modo más económico que en los demás comercios.
+</div>
+
+---
+
+## Canales de distribución
+
+### Funciones de los minoristas:
+- Facilitan la adquisición de productos procedentes del mayorista y obtienen mejores condiciones.
+- Promoción y comercialización en el punto de venta, a través del merchandising
+Añaden o pueden añadir servicios adicionales que aportan valor añadido (instalaciones, reparaciones, etc.).
+- Obtienen información de primera mano procedente del propio consumidor final.
+- Asumen riesgos. Roturas, desperfectos, robos y hurtos.
+- Dan a conocer los productos del fabricante.
+<div class="nota"><strong>Merchandising</strong>
+Acciones destinadas a estimular la demanda de los productos en el lugar de comercialización
+</div>
+
+---
+
+## Canales de distribución
+### Intermediarios
+
+- **Comerciantes:** son empresas que compran el producto para revenderlos posteriormente al consumidor o a otros intermediarios.
+
+- **Agentes:** son profesionales (comerciales) que no tienen relación contractual con ningún fabricante y tampoco compran sus mercancías, sino que intervienen en el proceso de intercambio como vendedores a comisión por un porcentaje de las ventas que consigan.
+
+- **Corredores:** son organizaciones dedicadas a proveer información relevante sobre el mercado y sobre los propios canales de distribución actúan en los dos sentidos, es decir, en el proceso de compra y de venta.
+
+---
+
+<div class="canal_dist"> <img src="http://compartiendoconocimiento.files.wordpress.com/2010/02/canales-de-distribucion.jpg" >
+</div>
+<style>
+.canal_dist img {
+  max-height: 600px;
+  position: absolute;
+  left: 125px;
+  top: 100px;
+}
+</style>
+
+---
+
+### Proveedores
+
+- Oferta proveedora. Hay que asegurarse que existe variedad suficiente de proveedores que satisfagan las necesidades del proceso productivo del negocio, así como, que sean capaces de mantener una calidad uniforme en plazos de entrega, calidad, posibilidad de negociar condiciones, etc., todo ello incurriendo en un coste aceptable.
+- Se debe estudiar cuál es la situación de los proveedores en el mercado. Si existen muchos, si están organizados, si tienen competidores, si existen proveedores sustitutivos, etc. Toda esta información será de gran utilidad para conocer las barreras de acceso o de entrada a cualquier mercado que se quiera abordar. Aparte de esto, una vez dentro, se podrán prever las oportunidades y amenazas que se derivan de esta fuerza del mercado:
+
+---
+
+## Proveedores
+
+### Amenazas: 
+- Que existan pocos proveedores, sean poderosos, que existan pocas alternativas (sustitutivos) y que además se organicen de forma monopolística y pacten condiciones exigentes para formalizar pedidos o fijar precios de materias primas. 
+- Que con esta situación penetren en el mercado empresas de dimensión mayor y pacten con el proveedor para conseguir el suministro exclusivo de materias primas o productos.
+
+### Oportunidades:
+- Que entren a ese mercado nuevos proveedores, aumente la competitividad y aparezcan productos sustitutivos. Se pueden conseguir ventajas competitivas en forma de mejores condiciones: precios bajos, mejor financiación, descuentos, etc. 
+- Al conseguir reducir costes unitarios la empresa puede invertir más recursos para diferenciar sus productos y alcanzar una mejor posición en su mercado de venta.
+
+---
+
+## Competencia
+
+Determinar quiénes y cuántos son los principales competidores y cuáles son los productos y los factores que fundamentan su éxito. Se debe establecer una lista con los competidores más importantes y el análisis de los siguientes factores:
+
+<div class="col3">
+<ul>
+<li>Productos
+<li>Precios
+<li>Promoción
+<li>Distribución
+<li>Situación económica-financiera 
+<li>Estrategia de ventas
+<li>Marca
+</ul>
+</div><div class="col3">
+<ul>
+<li>Ubicación
+<li>Especialización técnica
+<li>Publicidad
+<li>Líneas de productos
+<li>Imagen
+<li>Cuota de mercado
+<li>Número de empleados
+<li>Fuentes de financiación que usa
+</ul>
+</div><div class="col3">
+<ul>
+<li>Utilidad comercial
+<li>Organigrama
+<li>Retorno de inversiones y ventas
+<li>Solvencia
+<li>Tecnología
+<li>Sistema de retribución del personal
+<li>Logotipos, nombre comercial
+<ul>
+</div>
+
+---
+
+## Competencia
+
+### Principales fuerzas en el mercado
+
+**Competencia del mercado y grado de ocupación:** el número de competidores, calidad de sus productos, estrategias comerciales que siguen, posicionamiento, costes de producción, vida útil del producto, estado del sector (en alza o declive), barreras de entrada y salida, etc.
+
+**Nuevos competidores:** barreras de entrada y salida
+
+**Competidores que ofrecen productos sustitutivos:**  Podrían competir con más tecnología, precios bajos, satisfaciendo de forma diferente al comprador, etc.
+
+**Compradores:** cuando se ofrecen numerosas alternativas y los productos que se adquieren son susceptibles de ser sustituidos por sucedáneos, aumenta el poder de los compradores que si están bien organizados, pueden beneficiarse para conseguir condiciones favorables. Esto suele ocurrir cuando los productos del mercado están poco diferenciados unos de otros y no poseen características únicas.
+
+**Proveedores:** en este caso son los proveedores los que, bien organizados, cuentan con una posición de privilegio sobre los compradores, pues saben que concentran la oferta al poseer productos difíciles de sustituir, escasos competidores potenciales y un mercado con barreras de entrada altas y de muchos tipos (por ejemplo patentes exclusivas).
+
+---
 
 
 --- .segue .dark
