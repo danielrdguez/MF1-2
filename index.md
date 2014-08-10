@@ -117,6 +117,47 @@ line-height: 65px;
 
 ---
 
+## Necesidades y tendencias
+
+<div class="nota"><strong>Comportamiento de compra: </strong>Todas las acciones y decisiones que un individuo pone en marcha desde que percibe una necesidad hasta que consigue satisfacerla por medio de la adquisición de un producto o servicio.</div>
+
+Las necesidades son la base que fundamenta el proceso de intercambio. Se hace necesario pues estudiarlas ya que la información recabada será esencial para el negocio. Estos conocimientos permitirán a la empresa:
+
+- Diseñar una estrategia comercial a medida del cliente, es decir, que se adapte al consumidor de la forma más efectiva y duradera posible para ganar su confianza.
+
+- Detectar oportunidades actuales y futuras en cuanto a que la empresa podrá predecir los movimientos de los clientes en el futuro.
+
+---
+
+## Necesidades
+### Pirámide de Maslow
+
+<div class="maslow"><img src="http://www.metrica.es/wp-content/uploads/2013/10/PIRAMIDE-DE-MASLOW.png"></div>
+
+<style>
+  .maslow img {
+    max-height: 600px;
+    position: absolute;
+    left: 300px;
+    top: 200px;
+  }
+</style>
+
+---
+
+## Necesidades y tendencias.
+
+<div class="nota">
+<strong>Necesidad: </strong>Sensación de carencia que se percibe cuando se precisa algo con más o menos intensidad de forma tal que, moviliza la acción y voluntad de un sujeto hacia la consecución o alcance de un objeto, acción o actividad que satisface la carencia inicial que motivó la movilización.
+</div>
+
+### Categorías de las necesidades:
+- **Existenciales:** de ser (atributos personales y colectivos), de tener (instituciones, normas, leyes), de hacer (acciones personales y colectivas) y de estar (espacios).
+
+- **Axiológicas:** subsistencia, protección, afecto, entendimiento, participación, ocio, creación, identidad y libertad.
+
+---
+
 ## Necesidades y tendencias.
 
 ### Atributos de una oportunidad de negocio
@@ -132,7 +173,7 @@ line-height: 65px;
 
 ### Las tendencias
 
-- Analizar con detenimiento las características de los cambios que ocurren en nuestra sociedad y que pueden describir en cierta forma algunas tendencias, permiten identificar áreas en las cuáles descifrar oportunidades de negocio.
+Debemos analizar con detenimiento las características de los cambios que ocurren en nuestra sociedad y que pueden describir en cierta forma algunas tendencias, permiten identificar áreas en las cuáles descifrar oportunidades de negocio.
 
 ---
 
@@ -148,7 +189,8 @@ En la actualidad, anticiparse a los demás competidores y prever los hábitos de
 
 ### Las tendencias
 
-- **Tendencia del consumidor:** Se refiere a las costumbres, hábitos e inclinaciones que se repiten y manifiestan en el acto de compra cuya observación permite a las empresas prever y determinar unas pautas de comportamiento uniforme.
+<div class="nota"><strong>Tendencia del consumidor: </strong> Se refiere a las costumbres, hábitos e inclinaciones que se repiten y manifiestan en el acto de compra cuya observación permite a las empresas prever y determinar unas pautas de comportamiento uniforme.
+</div>
 
 ---
 
@@ -220,11 +262,69 @@ Los rasgos de empresarios o emprendedores que explotan la curiosidad como fuente
 - Perseveran, indagan, llegan al fondo de los asuntos.
 - Piensan diferente, usan el pensamiento divergente.
 
+Las personas curiosas tienen inquietudes que les conducen de forma irremisible a buscar cosas nuevas nunca antes vistas u oídas. Además, lo hacen a partir de las más heterogéneas fuentes, las cuales observan hasta extraer conclusiones interesantes e incluso transformándolas de forma original y creativa.
+
 ---
 
 ## Técnicas de creatividad en la generación de ideas.
 
+### Brainstorming
 
+Es una técnica que se suele utilizar en grupo, pues cuantas más aportaciones mejor. En el proceso, destaca la presencia del moderador que induce al resto de los participantes a expresar sus ideas sin restricción o censura alguna a partir de un concepto clave o principal. El moderador suele ser un experto en la materia que conduce y controla el grupo hacia una meta relacionada con el objeto del problema.
+
+Así, a partir del concepto o palabra clave, se van anotando las aportaciones de todos los participantes.
+
+---
+
+## Técnicas de creatividad en la generación de ideas.
+### Brainstorming (fases)
+1. **Determinación de objetivo y preparación:** ¿qué se busca? Una idea, un nuevo producto o una solución a un problema. Se determina el grupo participante: se recomienda que sea multidisciplinar y no menos de seis individuos. A este grupo hay que sumar la figura del moderador que no aporta ideas de arbitra el proceso y puede ser también el sujeto evaluador.
+2. **Creatividad:** las ideas se liberan sin censura y son recopiladas a la vista de todos los participantes. En esta etapa lo importante es la cantidad.
+3. **Evaluación:** se evalúa la calidad de ideas una a una, esto es tarea del evaluador que intentará conectar, combinar y perfeccionar alguna idea de la fase creativa con el objetivo.
+4. **Clasificación:** se determina su posible aplicación a corto, medio o largo plazo.
+
+---
+
+## Técnicas de creatividad en la generación de ideas.
+
+### La analogía
+
+Consiste en la búsqueda de situaciones que se ajusten o planteen problemas similares al que se necesita resolver particularmente con el objetivo de estudiar sus soluciones satisfactorias e intentar aplicar o adaptar una de estas al caso que es objeto de análisis.
+
+Además de potenciar la creatividad, las analogías, estimulan las capacidades de razonamiento, pues el cerebro se esfuerza por encontrar paralelismos y relaciones cuya originalidad y puntos comunes ofrecen nuevas perspectivas para resolver problemas o crear nuevas ideas. 
+
+---
+
+## Técnicas de creatividad en la generación de ideas.
+### Lista de atributos
+
+Se divide el problema en sus elementos más importantes y nacen nuevas ideas a partir del análisis de sus atributos o características. Se puede realizar individualmente o en grupo.
+
+Se recopilan todos los elementos y se analizan sus características en función de ciertos criterios o parámetros (u otras técnicas) sobre los que se desea que un producto mejore o en relación al propósito que se está buscando.
+
+---
+
+## El pensamiento irradiante
+
+Se trata del pensamiento que se deriva, nace o se conecta a una idea central, palabra clave u origen. Se denomina irradiante porque se propaga en diversas direcciones de forma arbitraria a partir de un punto central como si fueran rayos luminosos que parten de un núcleo con luz.
+
+Los estudios sobre la materia indican que el propio cerebro posee una estructura radial y establece mecanismos neuronales para enlazar pensamientos y crear asociaciones de ideas a partir de cosas, percepciones o estímulos centrales.
+
+---
+
+## Los mapas mentales
+
+Los mapas mentales son métodos sencillos que pretende sacar el mayor partido al potente cerebro humano haciendo uso de esquemas, diagramas u organigramas usados para representar las ideas y pensamientos de una forma organizada.
+
+Se basan en el pensamiento irradiante que es la forma en que el cerebro procesa la información. Los datos procedentes del cerebro se propagan en diferentes direcciones, es decir, de forma difusa o dispersa.
+
+Ayudarán a pensar mejor, a distinguir las fortalezas y debilidades de las ideas, a discernir en situaciones de indecisión, a organizar ideas, a memorizar y extraer información.
+
+---
+
+## Los mapas mentales
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/_q6jzZRQF9g" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -243,43 +343,142 @@ Los rasgos de empresarios o emprendedores que explotan la curiosidad como fuente
 }
 </style>
 
+---
 
+## Técnicas de creatividad en la generación de ideas.
+### Seis sombreros
+
+De Bono en su obra Seis Sombreros para pensar (1985) intenta aportar una guía o método sencillo para contribuir a un lenguaje constructivo orientado a que el ser humano aprenda a pensar mejor.
+
+Al ponerse o quitarse el sombrero se indica una dirección de pensamiento determinado según su color.
+
+Su funcionamiento se fundamenta principalmente en el pensamiento paralelo: un grupo piensa en conjunto para obtener el diseño de una idea o solución a un problema. Según de Bono, el método fomenta que todos los implicados piensen en una misma dirección y que los puntos de vista cosechados en el proceso de diseño, aunque sean contrarios, se sitúan al mismo nivel (en paralelo)
 
 ---
 
+## Técnicas de creatividad en la generación de ideas.
+### Seis sombreros
 
+Si el diseño demanda que se eliminen puntos de vista enfrentados, se intenta llegar a un acuerdo sin afectar otras fases. Si no se llega a un acuerdo convincente, el diseño deberá contener o abarcar todos los puntos de vista incluso los enfrentados. El objetivo es no frenar el progreso hacia delante, el pensamiento en la misma dirección.
 
-## Los mapas mentales
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_q6jzZRQF9g?list=PLFxmJ9vW7pijuvyYqlKKRb1qdMtINvCNr" frameborder="0" allowfullscreen></iframe>
+La confusión es la principal dificultad a la hora de pensar, pues en el proceso se aglutinan emociones, información, imaginación, ánimo, deseos o lógica. Con este método, se facilita la separación de estos factores dando a cada uno su lugar (su sombrero) y su momento de intervención.
 
 ---
 
-## El pensamiento irradiante
+## Técnicas de creatividad en la generación de ideas.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/q2_QbOOfVI8" frameborder="0" allowfullscreen></iframe>
+Sombrero           |    Función
+-------------------|------------------
+Blanco        | Hechos y las cifras. Actitud de pensamiento neutro y objetivo, sin expresar emociones o puntos de vista, se actúa como una máquina. 
+Rojo          | Sentimientos, emociones e intuiciones. Los participantes pueden expresar sus sentimientos sin justificación ni lógica alguna. 
+Negro         | La cautela, señala los riesgos, errores o peligros que pueden tener las ideas o sugerencias. 
+Amarillo      | Pensamiento constructivo, positivo, optimista. Investigan la lógica y el apoyo a las sugerencias aportadas. De él nacen las propuestas, las oportunidades, visiones, sueños y la efectividad.
+Verde         | La creatividad, las innovaciones, alternativas, percepciones y provocaciones para estimular el pensamiento lateral.
+Azul          | Control global del proceso. Dirige a los otros sombreros, modera, aclara, identifica y determina de una forma global. 
+
+---
+
+### Seis sombreros Edward de Bono
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/BAxbopegkEY" frameborder="0" allowfullscreen></iframe>
 
 --- .segue .dark
 
 ## Análisis DAFO de la oportunidad e idea negocio
 
+---
+
+## Análisis DAFO de la oportunidad e idea negocio
+
+Las siglas DAFO representan debilidades, amenazas, fortalezas, oportunidades. En Hispanoamérica se denomina normalmente FODA, y en países anglosajones SWOT.
+
+Consiste en realizar un estudio completo interno (D/F) y externo (A/O) de la idea u oportunidad de negocio. Se trata de un ejercicio de clasificación de los diferentes aspectos de una idea para obtener los principales atributos y defectos de la misma.
+
+---
+
+## Análisis DAFO de la oportunidad e idea negocio
+### Ventajas 
+- Permite contrastar los puntos fuertes y débiles de la idea, en relación a diferentes escenarios.
+- Ayuda a evaluar objetivos e ideas
+- Simplicidad
+- Ayuda a diseñar estrategias y tácticas
+- Permite establecer prioridades
+
+### Inconvenientes:
+- Las conclusiones pueden ser demasiado simples.
+- Tiene carácter estático.
+- Los resultados de un DAFO no son comparables con los de otro.
+
+---
+
+## DAFO
+
+<div class="dafo1">
+<img src="http://www.estartap.com/wp-content/uploads/2013/11/Analisis-DAFO.jpg">
+</div>
+
 <style>
-.dark h2{
-line-height: 65px;
-}
+  .dafo1 img {
+    max-height: 600px;
+    position: absolute;
+    left: 250px;
+    top: 50px;
+  }
 </style>
+
+---
+
+## DAFO
+
+<div class="dafo2"><img src="http://planestrategico.umh.es/data/es/imagenes/metodologia2.gif"></div>
+
+<style>
+  .dafo2 img {
+    height: 500px;
+    position: absolute;
+    left: 300px;
+    top: 100px;
+  }
+</style>
+
+---
+
+## DAFO
+
+<div class="dafo3"><img src="http://apadrineunfreelance.files.wordpress.com/2013/02/lesson_41.png?w=1160"></div>
+
+<style>
+  .dafo3 img {
+    max-height: 620px;
+    position: absolute;
+    left: 300px;
+    top: 50px;
+  }
+</style>
+
+---
+
+## Análisis DAFO de la oportunidad e idea negocio
+
+### Análisis Interno: Debilidades y Fortalezas (D/F)
+
+Factores que dependen de la empresa puesto que proceden sus propias características.
+
+- **Fortalezas** Todos aquellos puntos fuertes que represente la idea.
+- **Debilidades** Los puntos con menos fuerza del proyecto o idea.
+
+### Análisis externo: amenazas y oportunidades (A/O)
+
+Factores que proceden del exterior.
+
+- **Amenazas** Factores que proceden del exterior y que afectan en forma negativa a la idea.
+- **Oportunidades** Factores que pueden producir situaciones provechosas o ventajosas, no dependen de la empresa, pero deben ser aprovechadas si se presentan.
 
 --- .segue .dark
 
 ## Análisis del entorno del pequeño negocio o microempresa
 
-<style>
-.dark h2{
-line-height: 65px;
-}
-</style>
-
----
+<---
 
 ## Elección de las fuentes de información
 
@@ -462,7 +661,7 @@ En este caso las empresas buscan segmentos compuestos por grupos de consumidores
 
 ## La segmentación del mercado
 
-###Proceso de segmentación
+### Proceso de segmentación
 
 En los dos casos siguientes se expone el proceso habitual de identificación, acotación y determinación del segmento.
 
@@ -486,7 +685,7 @@ Caso 2. En este caso, los clientes estarían dispuestos a adquirir productos de 
 
 ## La segmentación del mercado
 
-###Determinación del tipo de segmentación
+### Determinación del tipo de segmentación
 
 En esta fase se decide qué actuación se seguirá para dividir el mercado en segmentos:
 
@@ -498,7 +697,7 @@ Caso 2. Segmentación basada en costes. El enfoque de las empresas se basará en
 
 ## La segmentación del mercado
 
-###Estrategias de segmentación
+### Estrategias de segmentación
 
 A continuación, se exponen las principales estrategias de segmentación:
 
@@ -760,7 +959,7 @@ Acciones destinadas a estimular la demanda de los productos en el lugar de comer
 
 ---
 
-### Proveedores
+## Proveedores
 
 - Oferta proveedora. Hay que asegurarse que existe variedad suficiente de proveedores que satisfagan las necesidades del proceso productivo del negocio, así como, que sean capaces de mantener una calidad uniforme en plazos de entrega, calidad, posibilidad de negociar condiciones, etc., todo ello incurriendo en un coste aceptable.
 - Se debe estudiar cuál es la situación de los proveedores en el mercado. Si existen muchos, si están organizados, si tienen competidores, si existen proveedores sustitutivos, etc. Toda esta información será de gran utilidad para conocer las barreras de acceso o de entrada a cualquier mercado que se quiera abordar. Aparte de esto, una vez dentro, se podrán prever las oportunidades y amenazas que se derivan de esta fuerza del mercado:
